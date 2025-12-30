@@ -50,7 +50,7 @@ python uzdb_final.py --demo
 python web_ui.py
 ```
 
-Keyin brauzeringizda oching: **http://localhost:5000**
+Keyin brauzeringizda oching: **http://localhost:5001**
 
 ### 4️⃣ Test misollar
 
